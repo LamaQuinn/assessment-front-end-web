@@ -51,7 +51,7 @@ img {
 }
 footer{
 	position: relative;
-	bottom:-300px;
+	bottom:-220px;
 }
 .buttons{
 	font-size: 18px; 
@@ -66,4 +66,13 @@ footer{
 .buttons:hover,
 .buttons:focus{
 	background-color: #ffcc00; 
+}
+
+
+ .text{
+	display: inline-block;
+	margin-right: 10px;
+	position: relative;
+	top: -50px;
+	right: -10px;
 }
